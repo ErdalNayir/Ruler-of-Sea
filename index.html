@@ -1,0 +1,32 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="images\icon\Wave.png" />
+    <title>Ruler of Sea</title>
+  </head>
+  <body>
+    <div id="container">
+      <p id="head">Ruler of Sea</p>
+      <p id="description">Eat fish! Evolve! Become the Ruler!</p>
+      <div id="startBtn" onclick="startGame()">Start</div>
+    </div>
+
+    <div id="containerEnd">
+      <p id="endTitle">Game Over</p>
+      <p id="highScoresTitle">High Scores</p>
+      <ol type="1" id="highScores">
+        <li class="listItem" id="theBest1">-----</li>
+        <li class="listItem" id="theBest2">-----</li>
+        <li class="listItem" id="theBest3">-----</li>
+      </ol>
+      <div id="restartBtn" onclick="restartGame()">Restart</div>
+    </div>
+
+    <canvas id="myCanvas" width="1500" height="730"></canvas>
+    <div id="overlayBlur"></div>
+  </body>
+  <script src="gameLogic.js"></script>
+</html>

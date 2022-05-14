@@ -1,0 +1,122 @@
+body {
+  text-align: center;
+  background-color: "#000000";
+}
+
+#myCanvas {
+  background-image: url("images/denizim.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: crosshair;
+}
+
+#container {
+  background-color: #7685e3;
+  border: 2px solid;
+  border-color: blue;
+  color: white;
+  font-family: "Arial";
+  position: absolute;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
+}
+
+#head {
+  font-weight: bolder;
+  font-size: 32;
+}
+
+#description {
+  margin-top: 0;
+  font-size: 24;
+  padding-bottom: 3rem;
+}
+
+#startBtn {
+  cursor: pointer;
+  background-color: #2e387a;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  width: 40%;
+  height: 50%;
+  transform: translate(62.5%, -50%);
+}
+
+/* mouse over link */
+#startBtn:hover {
+  color: rgb(51, 16, 207);
+  background-color: aqua;
+}
+
+#containerEnd {
+  background-color: #7685e3;
+  border: 2px solid;
+  border-color: blue;
+  color: white;
+  font-family: "Arial";
+  position: absolute;
+  padding: 1.5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  border-radius: 1rem;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  display: none;
+  flex-direction: column;
+  z-index: 10;
+}
+
+#endTitle {
+  font-weight: bolder;
+  font-size: 32;
+}
+
+#highScoresTitle {
+  font-weight: bold;
+  font-size: 20;
+  transform: translate(-13%, 50%);
+}
+
+#highScores {
+  margin-bottom: 4rem;
+  list-style-position: inside;
+  transform: translate(-40%, -1%);
+}
+
+.listItem {
+  font-size: 24;
+  padding: 1rem;
+}
+
+#restartBtn {
+  cursor: pointer;
+  background-color: #2e387a;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  width: 60%;
+  height: 50%;
+  transform: translate(30%, -50%);
+}
+
+#restartBtn:hover {
+  color: rgb(51, 16, 207);
+  background-color: aqua;
+}
+
+#overlayBlur {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(3px);
+  z-index: 5;
+}
