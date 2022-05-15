@@ -63,6 +63,11 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 
 
 
+</br></br>
+#### Known issues
+There is a little bit error that I can't solve on collosion detection. Sometimes game can't detect collosion and this could create a little inconvience. 
 
+</br></br>
+</br></br>
 You can play first version here: http://rulerofsea.freeoda.com/</br>
 You can play my game here[Bug Fixed!]: http://kingofthesea.freeoda.com/
