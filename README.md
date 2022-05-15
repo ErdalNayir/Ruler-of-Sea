@@ -55,6 +55,12 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 ### Game Screen 
 <img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/Oyun%20Resimlerim/GameScreen.JPG" width="750" />
 <p><b>Game screen while you are still alive<b></p>
+  
+</br></br>
+### Game End 
+<img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/Oyun%20Resimlerim/EndScreen.JPG" width="750" />
+<p><b>Game screen when the game ends<b></p>
+
 
 
 
