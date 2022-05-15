@@ -51,6 +51,10 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 <p>Well it is the dream you want to achieve. Actually, it is the dream of every fish want to achieve. Who don't want to become Killer whale to rule the sea right?</p>
 
 
+</br></br>
+### Game Screen 
+<img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/Oyun%20Resimlerim/GameScreen.JPG" width="750" />
+<p><b>Game screen while you are still alive<b></p>
 
 
 
