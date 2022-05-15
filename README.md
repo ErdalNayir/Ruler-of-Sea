@@ -16,6 +16,7 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 </br></br>
 ### Game Characters
 
+</br>
 <img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/TroutLookingRightSide.png" width="120" />
 
 
