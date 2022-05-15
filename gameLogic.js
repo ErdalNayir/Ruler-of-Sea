@@ -382,7 +382,7 @@ class Player {
       if (this.level - level != 0) {
         audLevelUp.play();
         this.level += 1;
-        if (live < 3) {
+        if (lives < 3) {
           lives += 1;
         }
       }
@@ -390,7 +390,7 @@ class Player {
       if (this.level - level != 0) {
         audLevelUp.play();
         this.level += 1;
-        if (live < 3) {
+        if (lives < 3) {
           lives += 1;
         }
       }
@@ -400,7 +400,7 @@ class Player {
       if (this.level - level != 0) {
         audLevelUp.play();
         this.level += 1;
-        if (live < 3) {
+        if (lives < 3) {
           lives += 1;
         }
       }
@@ -410,7 +410,7 @@ class Player {
       if (this.level - level != 0) {
         audLevelUp.play();
         this.level += 1;
-        if (live < 3) {
+        if (lives < 3) {
           lives += 1;
         }
       }
