@@ -13,5 +13,10 @@ Your mission is eating small fish whose their mass is lower than you. By eating 
 ### Game Start
 You started as a little trout whose mass is 500 by default and You can only eat trout at this stage.
 
+</br>
+### Game Characters
+
+
+
 You can play first version here: http://rulerofsea.freeoda.com/</br>
 You can play my game here[Bug Fixed!]: http://kingofthesea.freeoda.com/
