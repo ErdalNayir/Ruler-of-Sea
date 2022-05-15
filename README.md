@@ -14,6 +14,7 @@ Your mission is eating small fish whose their mass is lower than you. By eating 
 You started as a little trout whose mass is 500 by default and You can only eat trout at this stage.
 
 <img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/Oyun%20Resimlerim/StartingScreen.JPG" width="750" />
+<p><b>Starting screen of the game<b></p>
 
 
 </br></br>
