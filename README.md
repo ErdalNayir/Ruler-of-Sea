@@ -3,4 +3,5 @@ Javascript Game that I have made for "Web Based Development" lesson
 
 </br>
 
-You can play my game here: www.rulerofsea.freeoda.com
+You can play first version here: http://rulerofsea.freeoda.com/
+You can play my game here[Bug Fixed!]: http://kingofthesea.freeoda.com/
