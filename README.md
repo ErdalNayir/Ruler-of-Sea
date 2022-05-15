@@ -70,7 +70,7 @@ There is a little bit error that I can't solve on collosion detection. Sometimes
 </br></br>
 #### Sources
 <ul>
-  <li>I get my characters at [Mope.io]https://mope.io/</li>
+  <li>I get my characters at [Mope.io](https://mope.io/)</li>
 </ul>
 
 </br></br>
