@@ -23,6 +23,7 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 </br>
 <h4>Trout</h4>
 <img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/TroutLookingRightSide.png" width="120" />
+<p>You can start as trout. You can at trout at every level so You can think that This fish is free point :P</p>
 
 
 You can play first version here: http://rulerofsea.freeoda.com/</br>
