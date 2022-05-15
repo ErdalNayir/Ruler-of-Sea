@@ -25,6 +25,11 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 <img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/TroutLookingRightSide.png" width="120" />
 <p>You can start as trout. You can at trout at every level so You can think that This fish is free point :P</p>
 
+</br></br>
+<h4>Turtle</h4>
+<img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/TurtleLookingRightSide.png" width="120" />
+<p>If your mass is bigger than 700, You can eat turtle. You become turtle when you surpass 700 as well:P</p>
+
 
 You can play first version here: http://rulerofsea.freeoda.com/</br>
 You can play my game here[Bug Fixed!]: http://kingofthesea.freeoda.com/
