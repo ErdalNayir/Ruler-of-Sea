@@ -66,7 +66,8 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 </br></br>
 #### Known issues
 There is a little bit error that I can't solve on collosion detection. Sometimes game can't detect collosion and this could create a little inconvience. 
-
+ [kaggle](https://www.kaggle.com/erdal002)
+ [Mope.io](https://mope.io/)
 </br></br>
 #### Sources
 <ul>
