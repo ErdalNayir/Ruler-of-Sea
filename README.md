@@ -1,7 +1,7 @@
 # Ruler-of-Sea
 Javascript Game that I have made for "Web Based Development" lesson
 
-In this project We are asked to create game which can be worked on web. So I came up with idea and created this game. It took 3 days to create the game. I have searched more than 100 websites to create this game. 
+In this project We are asked to create game which can be worked on web. So I came up with idea and created this game. It took 3 days to create the game. I have searched more than 100 websites to create the project. 
 
 </br></br>
 
@@ -16,6 +16,7 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 </br></br>
 ### Game Characters
 
+<img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/TroutLookingRightSide.png" width="120" />
 
 
 You can play first version here: http://rulerofsea.freeoda.com/</br>
