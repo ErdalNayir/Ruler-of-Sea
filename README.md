@@ -13,7 +13,7 @@ Your mission is eating small fish whose their mass is lower than you. By eating 
 ### Game Start
 You started as a little trout whose mass is 500 by default and You can only eat trout at this stage.
 
-</br>
+</br></br>
 ### Game Characters
 
 
