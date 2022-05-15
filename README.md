@@ -28,7 +28,30 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 </br></br>
 <h4>Turtle</h4>
 <img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/TurtleLookingRightSide.png" width="120" />
-<p>If your mass is bigger than 700, You can eat turtle. You become turtle when you surpass 700 as well:P</p>
+<p>If your mass is bigger than 700, You can eat turtle. You become turtle when you surpass 700 as well</p>
+
+</br></br>
+<h4>Crab</h4>
+<img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/CrabLookingRightSide.png" width="120" />
+<p>If your mass is bigger than 700, You can eat turtle. You become turtle when you surpass 700 as well</p>
+
+</br></br>
+<h4>Jelly Fish</h4>
+<img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/JellyFishLookingRightSide.png" width="120" />
+<p>If your mass is bigger than 700, You can eat turtle. You become turtle when you surpass 700 as well</p>
+
+</br></br>
+<h4>Shark</h4>
+<img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/SharkLookingRightSide.png" width="120" />
+<p>If your mass is bigger than 700, You can eat turtle. You become turtle when you surpass 700 as well</p>
+
+</br></br>
+<h4>Killer Whale</h4>
+<img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/images/Characters/KillerWhaleLookingRightSide.png" width="120" />
+<p>If your mass is bigger than 700, You can eat turtle. You become turtle when you surpass 700 as well</p>
+
+
+
 
 
 You can play first version here: http://rulerofsea.freeoda.com/</br>
