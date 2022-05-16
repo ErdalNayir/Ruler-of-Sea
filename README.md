@@ -7,7 +7,7 @@ In this project We are asked to create game which can be worked on web. So I cam
 
 ## About the Game
 
-Your mission is eating small fish whose their mass is lower than you. By eating them, You get bigger and You can eat bigger fish. Once you reached killer whale whose mass is 10000, The game ends and yess you win the game!!
+Your mission is eating small fish whose mass is lower than you. By eating them, You get bigger and You can eat bigger fish. Once you reached killer whale whose mass is 10000, The game ends and yess you win the game!!
 
 </br></br>
 ### Game Start
@@ -59,13 +59,13 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 </br></br>
 ### Game End 
 <img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/Oyun%20Resimlerim/EndScreen.JPG" width="750" />
-<p><b>Game screen when the game ends<b></p>
+<p><b>Game screen when the game ends.<b></p>
 
 
 
 </br></br>
 #### Known issues
-There is a little bit error that I can't solve on collosion detection. Sometimes game can't detect collosion and this could create a little inconvience. 
+There is a little bit error that I can't solve on collosion detection. Sometimes game can't detect collosion and this could create a little inconvience.
 
 </br></br>
 #### Sources
