@@ -67,7 +67,7 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 ```sh
 git clone https://github.com/ErdalNayir/Ruler-of-Sea.git
 cd Ruler-of-Sea
-run index.html on searver
+run index.html on server
 ```
 
 </br></br>
