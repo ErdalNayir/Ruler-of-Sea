@@ -60,8 +60,15 @@ You started as a little trout whose mass is 500 by default and You can only eat 
 ### Game End 
 <img src="https://github.com/ErdalNayir/Ruler-of-Sea/blob/main/Oyun%20Resimlerim/EndScreen.JPG" width="750" />
 <p><b>Game screen when the game ends.<b></p>
+</br></br>
 
+###  Kurulum 
 
+```sh
+git clone https://github.com/ErdalNayir/Ruler-of-Sea.git
+cd Ruler-of-Sea
+run index.html on searver
+```
 
 </br></br>
 #### Known issues
